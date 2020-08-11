@@ -1,5 +1,6 @@
 # Welcome to Cony's Github 🐰
-![cony](cony.png)
+![cony](conyDraw.png)
+
 I am a NTU undergraduate student, currently doing internship in Huawei.
 
 Here are some links: 😋
