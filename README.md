@@ -1,6 +1,6 @@
 # Welcome to Cony's Github 🐰
 
-<img src="https://github.com/ConyYang/ConyYang/master/conyDraw.png" alt="banner that says Cony Yang - NTU undergraduate student,
+<img src="https://raw.githubusercontent.com/ConyYang/ConyYang/master/conyDraw.png" alt="banner that says Cony Yang - NTU undergraduate student,
 major in Computer Engineering.">
 
 I am currently doing my internship at Dyson.
